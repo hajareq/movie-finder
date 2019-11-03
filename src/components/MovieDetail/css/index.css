@@ -1,0 +1,47 @@
+.container-movie-detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 12%;
+}
+.wrapper {
+  margin-top: 5%;
+}
+.movie-image-detail {
+  height: 27rem;
+  width: 27rem;
+  margin-right: 20px;
+}
+
+.table-movie-detail {
+  height: 27rem;
+  width: 27rem;
+}
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 40rem;
+}
+
+th,
+td {
+  padding: 15px;
+}
+.row {
+  color: white;
+}
+.movie-name-detail {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2%;
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: "Roboto", sans-serif;
+}
